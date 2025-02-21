@@ -3,7 +3,7 @@
 
 # crie uma funcao que receba dois numero e retorne a soma entre eles 
 # create a function that receives two numbers and returns the sum between them
-def adicionar(x, y):
+def somar(x, y):
     z = x + y 
     return z
 
